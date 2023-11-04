@@ -5,11 +5,11 @@ To write a C program to read a special symbol from the user and display the same
 
 ## ALGORITHM:
 
- 1: Start the program.
- 2: Declare the required variable:ch.
- 3: Read input values for ch using scanf().
- 4: Print the result using printf().
- 5: Stop the program.
+   1: Start the program.
+   2: Declare the required variable:ch.
+   3: Read input values for ch using scanf().
+   4: Print the result using printf().
+   5: Stop the program.
 
 ## PROGRAM:
 ```
